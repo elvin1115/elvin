@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-50px;
-  width:409px;
+  width:309px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -21,16 +21,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:409px;
-  height:2100px;
+  width:309px;
+  height:1707px;
 }
 #u27 {
   border-width:0px;
   position:absolute;
   left:50px;
   top:50px;
-  width:409px;
-  height:2100px;
+  width:309px;
+  height:1707px;
   display:flex;
 }
 #u27 .text {
